@@ -1,0 +1,32 @@
+
+.lista{
+   
+   
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+       
+}
+
+
+
+.item1,.item2,.item3,.item4{
+    margin-top: 25px;
+    padding: 50px 20px;
+   
+}
+
+h3{
+    margin-top: 10px;
+    text-align: center;
+}
+.im{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    max-height: 500px;
+    justify-content: space-between;
+}
